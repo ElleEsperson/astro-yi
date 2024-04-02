@@ -56,44 +56,45 @@ export const categories = [
     iconClass: "ri-draft-line",
     href: "/blog/1",
   },
-  {
-    name: "Feed",
-    iconClass: "ri-lightbulb-flash-line",
-    href: "/feed/1",
-  },
+  // {
+  //   name: "Feed",
+  //   iconClass: "ri-lightbulb-flash-line",
+  //   href: "/feed/1",
+  // },
   {
     name: "归档",
     iconClass: "ri-archive-line",
     href: "/archive/1",
   },
-  {
-    name: "留言",
-    iconClass: "ri-chat-1-line",
-    href: "/message",
-  },
+  // {
+  //   name: "留言",
+  //   iconClass: "ri-chat-1-line",
+  //   href: "/message",
+  // },
   {
     name: "搜索",
     iconClass: "ri-search-line",
     href: "/search",
   },
   {
-    name: "More",
-    iconClass: "ri-more-fill",
-    href: "javascript:void(0);",
-    children: [
-      {
-        name: 'About',
-        iconClass: 'ri-information-line',
-        href: '/about',
-      },
-      {
-        name: 'Friends',
-        iconClass: 'ri-user-5-line',
-        href: '/friends',
-        target: '_self',
-      },
-    ]
-  }
+    name: '关于',
+    iconClass: 'ri-information-line',
+    href: '/about',
+  },
+  // {
+  //   name: 'Friends',
+  //   iconClass: 'ri-user-5-line',
+  //   href: '/friends',
+  //   target: '_self',
+  // }
+  // {
+  //   name: "More",
+  //   iconClass: "ri-more-fill",
+  //   href: "javascript:void(0);",
+  //   children: [
+     
+  //   ]
+  // }
 ]
 
 /**
