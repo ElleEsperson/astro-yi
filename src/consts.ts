@@ -16,11 +16,11 @@
  * beian {string} Chinese policy
  */
 export const site = {
-  title: 'Astro Theme Yi', // required
-  favicon: '/favicon.svg', // required
+  title: '测绘之路', // required
+  favicon: 'https://pic.imgdb.cn/item/66019e709f345e8d03ab6819.png', // required
   description: 'Welcome to my independent blog website! ',
-  author: "Astro-Yi", // required
-  avatar: '/avatar.png', // required
+  author: "测绘王同学", // required
+  avatar: 'https://pic.imgdb.cn/item/6577ee64c458853aef0184a1.jpg', // required
   motto: 'Actions speak louder than words.',
   url: 'https://yongshunwang.netlify.app/',
   recentBlogSize: 5,
@@ -52,7 +52,7 @@ export const config = {
  */
 export const categories = [
   {
-    name: "Blog",
+    name: "博客",
     iconClass: "ri-draft-line",
     href: "/blog/1",
   },
@@ -62,17 +62,17 @@ export const categories = [
     href: "/feed/1",
   },
   {
-    name: "Archive",
+    name: "归档",
     iconClass: "ri-archive-line",
     href: "/archive/1",
   },
   {
-    name: "Message",
+    name: "留言",
     iconClass: "ri-chat-1-line",
     href: "/message",
   },
   {
-    name: "Search",
+    name: "搜索",
     iconClass: "ri-search-line",
     href: "/search",
   },

@@ -1,6 +1,8 @@
 ---
 title: PYTHON笔记
 date: 2023-11-10 20:12:52
+category: 编程学习
+description: PYTHON基础语法学习记录
 ---
 
 ## 一、基础语法
