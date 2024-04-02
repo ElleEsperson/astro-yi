@@ -22,7 +22,7 @@ export const site = {
   author: "Astro-Yi", // required
   avatar: '/avatar.png', // required
   motto: 'Actions speak louder than words.',
-  url: 'https://astro-yi-nu.vercel.app',
+  url: 'https://yongshunwang.netlify.app/',
   recentBlogSize: 5,
   archivePageSize: 25,
   postPageSize: 10,

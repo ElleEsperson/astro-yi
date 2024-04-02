@@ -1,11 +1,6 @@
 ---
 title: PYTHON笔记
 date: 2023-11-10 20:12:52
-tags: 
-  - python
-  - 笔记
-categories:
-  - 编程学习
 ---
 
 ## 一、基础语法

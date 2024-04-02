@@ -1,10 +1,6 @@
 ---
 title: C++爱心代码
 date: 2023-11-14 20:12:52
-tags:
-  - c++
-categories:
-  - 编程学习
 mathjax: true
 ---
 ## C++实现爱心代码
