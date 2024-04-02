@@ -2,7 +2,7 @@
 title: C++爱心代码
 date: 2023-11-14 20:12:52
 category: 编程学习
-tags: ["C语言",]
+tags: ["test", "markdown"]
 mathjax: true
 description: 兴趣是最好的老师，实践是最好的考试，学完基础知识就可以找一些简单的代码玩玩。画一个爱心代码送给自己喜欢的人（虽然作者单身），谁说理工男不懂浪漫（QAQ）
 ---
