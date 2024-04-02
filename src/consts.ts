@@ -76,25 +76,26 @@ export const categories = [
     iconClass: "ri-search-line",
     href: "/search",
   },
+  
+
   {
-    name: '关于',
-    iconClass: 'ri-information-line',
-    href: '/about',
-  },
-  // {
-  //   name: 'Friends',
-  //   iconClass: 'ri-user-5-line',
-  //   href: '/friends',
-  //   target: '_self',
-  // }
-  // {
-  //   name: "More",
-  //   iconClass: "ri-more-fill",
-  //   href: "javascript:void(0);",
-  //   children: [
-     
-  //   ]
-  // }
+    name: "More",
+    iconClass: "ri-more-fill",
+    href: "javascript:void(0);",
+    children: [
+      {
+        name: '关于',
+        iconClass: 'ri-information-line',
+        href: '/about',
+      },
+      {
+        name: 'Friends',
+        iconClass: 'ri-user-5-line',
+        href: '/friends',
+        target: '_self',
+      },
+    ]
+  }
 ]
 
 /**
