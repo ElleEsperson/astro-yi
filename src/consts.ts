@@ -56,21 +56,21 @@ export const categories = [
     iconClass: "ri-draft-line",
     href: "/blog/1",
   },
-  // {
-  //   name: "Feed",
-  //   iconClass: "ri-lightbulb-flash-line",
-  //   href: "/feed/1",
-  // },
+  {
+    name: "Feed",
+    iconClass: "ri-lightbulb-flash-line",
+    href: "/feed/1",
+  },
   {
     name: "归档",
     iconClass: "ri-archive-line",
     href: "/archive/1",
   },
-  // {
-  //   name: "留言",
-  //   iconClass: "ri-chat-1-line",
-  //   href: "/message",
-  // },
+  {
+    name: "留言",
+    iconClass: "ri-chat-1-line",
+    href: "/message",
+  },
   {
     name: "搜索",
     iconClass: "ri-search-line",
@@ -79,7 +79,7 @@ export const categories = [
   
 
   {
-    name: "More",
+    name: "更多",
     iconClass: "ri-more-fill",
     href: "javascript:void(0);",
     children: [
