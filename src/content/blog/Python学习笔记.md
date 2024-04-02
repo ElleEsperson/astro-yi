@@ -2,7 +2,7 @@
 title: PYTHON笔记
 date: 2023-11-10 20:12:52
 category: 编程学习
-tags: ["Python", "笔记"]
+tags: ["Python", "note"]
 description: PYTHON基础语法学习记录
 ---
 
