@@ -57,7 +57,7 @@ export const categories = [
     href: "/blog/1",
   },
   {
-    name: "Feed",
+    name: "说说",
     iconClass: "ri-lightbulb-flash-line",
     href: "/feed/1",
   },
