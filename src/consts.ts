@@ -21,7 +21,7 @@ export const site = {
   description: 'Welcome to my independent blog website! ',
   author: "测绘王同学", // required
   avatar: 'https://pic.imgdb.cn/item/6577ee64c458853aef0184a1.jpg', // required
-  motto: 'Actions speak louder than words.',
+  motto: '行百里者半九十',
   url: 'https://yongshunwang.netlify.app/',
   recentBlogSize: 5,
   archivePageSize: 25,
@@ -102,31 +102,31 @@ export const categories = [
  * Personal link address
  */
 export const infoLinks = [
-  {
-    icon: 'ri-telegram-fill',
-    name: 'telegram',
-    outlink: 'xxxxxxx',
-  },
+  // {
+  //   icon: 'ri-telegram-fill',
+  //   name: 'telegram',
+  //   outlink: 'xxxxxxx',
+  // },
   {
     icon: 'ri-twitter-fill',
     name: 'twitter',
-    outlink: 'xxxxxxx',
+    outlink: 'https://twitter.com/yongshun231206',
   },
-  {
-    icon: 'ri-instagram-fill',
-    name: 'instagram',
-    outlink: 'xxxxxxx',
-  },
+  // {
+  //   icon: 'ri-instagram-fill',
+  //   name: 'instagram',
+  //   outlink: 'xxxxxxx',
+  // },
   {
     icon: 'ri-github-fill',
     name: 'github',
-    outlink: 'https://github.com/cirry',
-  },
-  {
-    icon: 'ri-rss-fill',
-    name: 'rss',
-    outlink: 'https://astro-yi-nu.vercel.app/rss.xml',
+    outlink: 'https://github.com/Yongshun-Wang',
   }
+  // {
+  //   icon: 'ri-rss-fill',
+  //   name: 'rss',
+  //   outlink: 'https://astro-yi-nu.vercel.app/rss.xml',
+  // }
 ]
 
 /**
