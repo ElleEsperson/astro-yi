@@ -72,6 +72,12 @@ export const categories = [
   //   href: "/message",
   // },
   {
+    name: '友链',
+    iconClass: 'ri-user-5-line',
+    href: '/friends',
+    target: '_self',
+  },
+  {
     name: "搜索",
     iconClass: "ri-search-line",
     href: "/search",
@@ -88,12 +94,7 @@ export const categories = [
   //   href: "javascript:void(0);",
   //   children: [
       
-  //     {
-  //       name: 'Friends',
-  //       iconClass: 'ri-user-5-line',
-  //       href: '/friends',
-  //       target: '_self',
-  //     },
+     
   //   ]
   // }
 ]
@@ -160,6 +161,12 @@ export const friendshipLinks =
     //   avatar: "https://cirry.cn/avatar.png",
     //   description: '前端开发的日常'
     // },
+       {
+        name: "小孙同学",
+        url: "https://blog.sunguoqi.com", 
+        avatar: "https://blog.sunguoqi.com/avatar.webp", 
+        description: "路虽远行则将至，事虽难做则必成！"
+      }
   ]
 
 /**
